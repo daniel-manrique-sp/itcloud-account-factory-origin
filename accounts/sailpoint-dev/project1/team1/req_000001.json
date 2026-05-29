@@ -1,0 +1,44 @@
+{
+  "schema_version": "0.3.1",
+  "request_id": "550e8400-e29b-41d4-a716-446655440000",
+  "submitted_at": "2026-05-26T12:00:00Z",
+  "submitted_by": "engineer@sailpoint.com",
+  "manager_email": "manager@sailpoint.com",
+  "requester": "engineer@sailpoint.com",
+  "owner": "engineer@sailpoint.com",
+  "cost_center": "4163",
+  "purpose": "Account Scalability slices for IPT in us-east-1",
+  "team": "IPT",
+  "target_management_account": "sailpoint-dev",
+  "use_case_type": "regional-slice",
+  "operations_contact_name": "IPT On-Call",
+  "operations_contact_title": "Distribution List",
+  "operations_contact_email_address": "ipt-oncall@sailpoint.com",
+  "account_name": "IPT-AAS-USE1",
+  "ou_name": "DevOps R&D",
+  "ou_id": "ou-l5s8-q4j94jon",
+  "account_count": 3,
+  "accounts": [
+    {
+      "account_display_name": "IPT-AAS-USE1-01",
+      "account_unique_id": "ipt-aas-use1-01",
+      "ou_id": "ou-l5s8-q4j94jon",
+      "ou_name": "DevOps R&D",
+      "root_email": "aws+IPT-AAS-USE1-01-5313a2c2@sailpoint.com"
+    },
+    {
+      "account_display_name": "IPT-AAS-USE1-02",
+      "account_unique_id": "ipt-aas-use1-02",
+      "ou_id": "ou-l5s8-q4j94jon",
+      "ou_name": "DevOps R&D",
+      "root_email": "aws+IPT-AAS-USE1-02-b2ffedb1@sailpoint.com"
+    },
+    {
+      "account_display_name": "IPT-AAS-USE1-03",
+      "account_unique_id": "ipt-aas-use1-03",
+      "ou_id": "ou-l5s8-q4j94jon",
+      "ou_name": "DevOps R&D",
+      "root_email": "aws+IPT-AAS-USE1-03-6792e125@sailpoint.com"
+    }
+  ]
+}
